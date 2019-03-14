@@ -1,4 +1,4 @@
 # killthebeasts
-I want to build that effectively kills the beasts
+I want to build an app that effectively kills the beasts
 
 This is a heading
